@@ -35,12 +35,6 @@ y2 = home_y
 #fixed position pile 3
 x3 = home_x + move_x
 y3 = home_y - move_y
-print(x1)
-print(x2)
-print(x3)
-print(y1)
-print(y2)
-print(y3)
 
 
 
